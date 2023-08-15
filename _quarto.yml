@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Schedule
+      - href: abstracts.qmd
+        text: Abstracts
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+
+editor: visual
+
