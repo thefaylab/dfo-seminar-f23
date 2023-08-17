@@ -18,7 +18,7 @@ Zoom: *insert zoom address here*
 |          | ***An Evaluation of Conservation Areas in the U.S. Exclusive Economic Zone***                                                                   |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 20   | **Katherine Kahl**, University of Massachusetts Amherst\                                                                                        |
-|          | ***North Shore Blue Economy***                                                                                                                  |
+|          | ***topic:*** ***North Shore Blue Economy***                                                                                                     |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 27   | **Joseph Caracappa**, NOAA Northeast Fisheries Science Center\                                                                                  |
 |          | ***topic: End-to-end Ecosystem Modeling for Northeast US***                                                                                     |
