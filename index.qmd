@@ -48,5 +48,5 @@ Zoom: *insert zoom address here*
 |          | [***Legacies of stress: eco-evolutionary consequences of transgenerational and carryover effects in coastal systems***](abstracts.html#donelan) |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | DEC 6    | **Jason Cope**, NOAA Northwest Fisheries Science Center\                                                                                        |
-|          | ***topic: Data-Limited Stock Assessment***                                                                                                      |
+|          | ***Tools and principles to support science-based fisheries management across the world***                                                       |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
