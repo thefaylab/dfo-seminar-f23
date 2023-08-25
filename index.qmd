@@ -26,7 +26,7 @@ Zoom: *insert zoom address here*
 | OCT 4    | **Tara Dolan**, Massachusetts Division of Marine Fisheries\                                                                                     |
 |          | ***topic: TBC***                                                                                                                                |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| OCT 11   | **QUEST CINAR Fellows - Gavin Fay, Genevieve Nesslage, Joshua Stoll**\                                                                          |
+| OCT 11   | **QUEST CINAR Fellows - Gavin Fay, Genevieve Nesslage, Joshua Stoll, John Wiedenmann**\                                                         |
 |          | (joint webinar with NOAA Fisheries, **remote only**)\                                                                                           |
 |          | ***topic: Quantitative Fishery and Ecosystem Science***                                                                                         |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -42,7 +42,7 @@ Zoom: *insert zoom address here*
 |          | ***topic: Climate Adaptive Fisheries***                                                                                                         |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 15   | **Meghna Marjadi**, University of Massachusetts Dartmouth\                                                                                      |
-|          | ***topic: River herring conservation***                                                                                                         |
+|          | ***Climate-related impacts on reproductive success and phenological events for anadromous river herring***                                      |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 29   | **Sarah Donelan**, University of Massachusetts Dartmouth\                                                                                       |
 |          | [***Legacies of stress: eco-evolutionary consequences of transgenerational and carryover effects in coastal systems***](abstracts.html#donelan) |
