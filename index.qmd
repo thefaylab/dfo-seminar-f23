@@ -15,38 +15,38 @@ Zoom: *insert zoom address here*
 |          | [***Socio-ecological dynamics of fisheries in the face of extreme events***](abstracts.html#white)                                              |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 13   | **Michelle Bachman**, New England Fishery Management Council\                                                                                   |
-|          | ***An Evaluation of Conservation Areas in the U.S. Exclusive Economic Zone***                                                                   |
+|          | [***An Evaluation of Conservation Areas in the U.S. Exclusive Economic Zone***](abstracts.html#bachman)                                         |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 20   | **Katherine Kahl**, University of Massachusetts Amherst\                                                                                        |
-|          | ***topic:*** ***North Shore Blue Economy***                                                                                                     |
+|          | [***topic:*** ***North Shore Blue Economy***](abstracts.html#kahl)                                                                              |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 27   | **Joseph Caracappa**, NOAA Northeast Fisheries Science Center\                                                                                  |
-|          | ***topic: End-to-end Ecosystem Modeling for Northeast US***                                                                                     |
+|          | [***topic: End-to-end Ecosystem Modeling for Northeast US***](abstracts.html#caracappa)                                                         |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | OCT 4    | **Tara Dolan**, Massachusetts Division of Marine Fisheries\                                                                                     |
-|          | ***topic: TBC***                                                                                                                                |
+|          | [***topic: TBC***](abstracts.html#dolan)                                                                                                        |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | OCT 11   | **QUEST CINAR Fellows - Gavin Fay, Genevieve Nesslage, Joshua Stoll, John Wiedenmann**\                                                         |
 |          | (joint webinar with NOAA Fisheries, **remote only**)\                                                                                           |
-|          | ***topic: Quantitative Fishery and Ecosystem Science***                                                                                         |
+|          | [***topic: Quantitative Fishery and Ecosystem Science***](abstracts.html#quest)                                                                 |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | OCT 18   | **Robert DeConto**, University of Massachusetts Amherst\                                                                                        |
 |          | (joint SMAST DFO/DEOS seminar)\                                                                                                                 |
-|          | ***topic: Northeast Collaborative for Climate Resilience***                                                                                     |
+|          | [***topic: Northeast Collaborative for Climate Resilience***](abstracts.html#deconto)                                                           |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 1    | **Kelsey Leonard**, University of Waterloo\                                                                                                     |
 |          | (**remote only**)\                                                                                                                              |
-|          | ***topic: Indigenous Water Justice***                                                                                                           |
+|          | [***topic: Indigenous Water Justice***](abstracts.html#leonard)                                                                                 |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 8    | **Kathy Mills**, Gulf of Maine Research Institute\                                                                                              |
-|          | ***topic: Climate Adaptive Fisheries***                                                                                                         |
+|          | [***topic: Climate Adaptive Fisheries***](abstracts.html#mills)                                                                                 |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 15   | **Meghna Marjadi**, University of Massachusetts Dartmouth\                                                                                      |
-|          | ***Climate-related impacts on reproductive success and phenological events for anadromous river herring***                                      |
+|          | [***Climate-related impacts on reproductive success and phenological events for anadromous river herring***](abstracts.html#marjadi)            |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 29   | **Sarah Donelan**, University of Massachusetts Dartmouth\                                                                                       |
 |          | [***Legacies of stress: eco-evolutionary consequences of transgenerational and carryover effects in coastal systems***](abstracts.html#donelan) |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | DEC 6    | **Jason Cope**, NOAA Northwest Fisheries Science Center\                                                                                        |
-|          | ***Tools and principles to support science-based fisheries management across the world***                                                       |
+|          | [***Tools and principles to support science-based fisheries management across the world***](abstracts.html#cope)                                |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
