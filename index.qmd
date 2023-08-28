@@ -24,7 +24,7 @@ Zoom: *insert zoom address here*
 |          | [***topic: End-to-end Ecosystem Modeling for Northeast US***](abstracts.html#caracappa)                                                         |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | OCT 4    | **Tara Dolan**, Massachusetts Division of Marine Fisheries\                                                                                     |
-|          | [***topic: TBC***](abstracts.html#dolan)                                                                                                        |
+|          | [***Exploring population connectivity in winter flounder***](abstracts.html#dolan)                                                              |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | OCT 11   | **QUEST CINAR Fellows - Gavin Fay, Genevieve Nesslage, Joshua Stoll, John Wiedenmann**\                                                         |
 |          | (joint webinar with NOAA Fisheries, **remote only**)\                                                                                           |

@@ -46,6 +46,10 @@ NOAA Fisheries Northeast Fisheries Science Center](https://www.fisheries.noaa.go
 Research fisheries biologist\
 Massachusetts Division of Marine Fisheries](https://scholar.google.com/citations?user=Xndpi9YAAAAJ&hl=en)
 
+#### *Exploring population connectivity in winter flounder*
+
+The expression of alternative life-history strategies can be advantageous for a species that experiences fluctuating environmental conditions. Intra-species differences in migration propensity and the timing of spawning create diverse population components which can respond plastically to environmental variability, promoting long-term stability within the population. However, such intra-specific diversity can also lead to challenges for the assessment and management of harvested species when we can no longer assume that stocks with such diverse subcomponents have homogeneous population dynamics. A concern for the assessment and management of Southern New England/Mid-Atlantic winter flounder (*Pseudopleuronectes americanus*) is whether diversity in migration propensity and the timing and location of spawning results in persistent stock structure. We characterized intra-specific behavioral diversity in migration propensity for winter flounder across multiple spatial scales. The migration propensity and natal origin for individual flounder were cross-referenced with their genotype, allowing us to compare genetic signatures of population structure with migration and spawning behavior. Including the role of behavior in mediating population connectivity will lead to more accurate interpretation of the causes and consequences of changes in fisheries productivity, and thus help us design more accurate assessment and effective management strategies.
+
 ------------------------------------------------------------------------
 
 #### 10/11/2023 {#quest}
