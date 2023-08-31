@@ -21,7 +21,7 @@ Zoom: *insert zoom address here*
 |          | [***UMass Amherst Gloucester Marine Station: Our vision forward***](abstracts.html#kahl)                                                        |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 27   | **Joseph Caracappa**, NOAA Northeast Fisheries Science Center\                                                                                  |
-|          | [***topic: End-to-end Ecosystem Modeling for Northeast US***](abstracts.html#caracappa)                                                         |
+|          | [***Building a Climate-Ready Northeast U.S. Atlantis Ecosystem Model***](abstracts.html#caracappa)                                              |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | OCT 4    | **Tara Dolan**, Massachusetts Division of Marine Fisheries\                                                                                     |
 |          | [***Exploring population connectivity in winter flounder***](abstracts.html#dolan)                                                              |
