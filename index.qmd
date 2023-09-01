@@ -8,7 +8,7 @@ Wednesdays, 3:00 pm
 
 Attend in person at SMAST-East, rooms 101-103, or online via Zoom\
 SMAST-East: 836 S Rodney French Boulevard, New Bedford, MA 02744\
-Zoom: *insert zoom address here*
+*For Zoom link or additional information, please contact Michael Harrison at [mharrison3\@umasd.edu](mailto:mharrison3@umassd.edu)*
 
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 6    | **Easton White**, University of New Hampshire\                                                                                                  |
@@ -50,3 +50,12 @@ Zoom: *insert zoom address here*
 | DEC 6    | **Jason Cope**, NOAA Northwest Fisheries Science Center\                                                                                        |
 |          | [***Tools and principles to support science-based fisheries management across the world***](abstracts.html#cope)                                |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Licensing
+
+All materials to create this website are released with [Creative Commons Attribution Share Alike 4.0 International](LICENSE.html) license.
+
+#### 
+Acknowledgements
+
+This website is built with {{< fa heart title="a heart" >}} and [Quarto](https://quarto.org/)
