@@ -58,4 +58,4 @@ All materials to create this website are released with [Creative Commons Attribu
 #### 
 Acknowledgements
 
-This website is built with {{< fa heart title="a heart" >}} and [Quarto](https://quarto.org/)
+This website is built with love and [Quarto](https://quarto.org/)
