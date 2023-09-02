@@ -36,7 +36,7 @@ SMAST-East: 836 S Rodney French Boulevard, New Bedford, MA 02744\
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 1    | **Kelsey Leonard**, University of Waterloo\                                                                                                     |
 |          | (**remote only**)\                                                                                                                              |
-|          | [***topic: Indigenous Water Justice***](abstracts.html#leonard)                                                                                 |
+|          | [***topic: Indigenous Ocean Justice***](abstracts.html#leonard)                                                                                 |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 8    | **Kathy Mills**, Gulf of Maine Research Institute\                                                                                              |
 |          | [***topic: Climate Adaptive Fisheries***](abstracts.html#mills)                                                                                 |
@@ -55,7 +55,6 @@ SMAST-East: 836 S Rodney French Boulevard, New Bedford, MA 02744\
 
 All materials to create this website are released with [Creative Commons Attribution Share Alike 4.0 International](LICENSE.html) license.
 
-#### 
-Acknowledgements
+#### Acknowledgements
 
 This website is built with love and [Quarto](https://quarto.org/)
