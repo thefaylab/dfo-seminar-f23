@@ -38,8 +38,8 @@ SMAST-East: 836 S Rodney French Boulevard, New Bedford, MA 02744\
 |          | (**remote only**)\                                                                                                                              |
 |          | [***topic: Indigenous Ocean Justice***](abstracts.html#leonard)                                                                                 |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| NOV 8    | **Kathy Mills**, Gulf of Maine Research Institute\                                                                                              |
-|          | [***topic: Climate Adaptive Fisheries***](abstracts.html#mills)                                                                                 |
+| NOV 8    | **Katherine Mills**, Gulf of Maine Research Institute\                                                                                          |
+|          | [***Climate Impacts and Resilience in Marine Fisheries***](abstracts.html#mills)                                                                |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 15   | **Meghna Marjadi**, University of Massachusetts Dartmouth\                                                                                      |
 |          | [***Climate-related impacts on reproductive success and phenological events for anadromous river herring***](abstracts.html#marjadi)            |
