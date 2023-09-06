@@ -15,7 +15,7 @@ SMAST-East: 836 S Rodney French Boulevard, New Bedford, MA 02744\
 |          | [***Socio-ecological dynamics of fisheries in the face of extreme events***](abstracts.html#white)                                              |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 13   | **Michelle Bachman**, New England Fishery Management Council\                                                                                   |
-|          | [***An Evaluation of Conservation Areas in the U.S. Exclusive Economic Zone***](abstracts.html#bachman)                                         |
+|          | [***Area-Based Management at the Regional Fishery Management Councils***](abstracts.html#bachman)                                               |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 20   | **Katherine Kahl**, University of Massachusetts Amherst\                                                                                        |
 |          | [***UMass Amherst Gloucester Marine Station: Our vision forward***](abstracts.html#kahl)                                                        |
