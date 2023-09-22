@@ -10,46 +10,46 @@ Attend in person at SMAST-East, rooms 101-103, or online via Zoom\
 SMAST-East: 836 S Rodney French Boulevard, New Bedford, MA 02744\
 *For Zoom link or additional information, please contact Michael Harrison at [mharrison3\@umasd.edu](mailto:mharrison3@umassd.edu)*
 
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| SEP 6    | **Easton White**, University of New Hampshire\                                                                                                  |
-|          | [***Socio-ecological dynamics of fisheries in the face of extreme events***](abstracts.html#white)                                              |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| SEP 13   | **Michelle Bachman**, New England Fishery Management Council\                                                                                   |
-|          | [***Area-Based Management at the Regional Fishery Management Councils***](abstracts.html#bachman)                                               |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| SEP 20   | **Katherine Kahl**, University of Massachusetts Amherst\                                                                                        |
-|          | [***UMass Amherst Gloucester Marine Station: Our vision forward***](abstracts.html#kahl)                                                        |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| SEP 27   | **Joseph Caracappa**, NOAA Northeast Fisheries Science Center\                                                                                  |
-|          | [***Building a Climate-Ready Northeast U.S. Atlantis Ecosystem Model***](abstracts.html#caracappa)                                              |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| OCT 4    | **Tara Dolan**, Massachusetts Division of Marine Fisheries\                                                                                     |
-|          | [***Exploring population connectivity in winter flounder***](abstracts.html#dolan)                                                              |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| OCT 11   | **QUEST CINAR Fellows - Gavin Fay, Genevieve Nesslage, Joshua Stoll, John Wiedenmann**\                                                         |
-|          | (joint webinar with NOAA Fisheries, **remote only**)\                                                                                           |
-|          | [***topic: Quantitative Fishery and Ecosystem Science***](abstracts.html#quest)                                                                 |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| OCT 18   | **Robert DeConto**, University of Massachusetts Amherst\                                                                                        |
-|          | (joint SMAST DFO/DEOS seminar)\                                                                                                                 |
-|          | [***topic: Northeast Collaborative for Climate Resilience***](abstracts.html#deconto)                                                           |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| NOV 1    | **Kelsey Leonard**, University of Waterloo\                                                                                                     |
-|          | (**remote only**)\                                                                                                                              |
-|          | [***topic: Indigenous Ocean Justice***](abstracts.html#leonard)                                                                                 |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| NOV 8    | **Katherine Mills**, Gulf of Maine Research Institute\                                                                                          |
-|          | [***Climate Impacts and Resilience in Marine Fisheries***](abstracts.html#mills)                                                                |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| NOV 15   | **Meghna Marjadi**, University of Massachusetts Dartmouth\                                                                                      |
-|          | [***Climate-related impacts on reproductive success and phenological events for anadromous river herring***](abstracts.html#marjadi)            |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| NOV 29   | **Sarah Donelan**, University of Massachusetts Dartmouth\                                                                                       |
-|          | [***Legacies of stress: eco-evolutionary consequences of transgenerational and carryover effects in coastal systems***](abstracts.html#donelan) |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| DEC 6    | **Jason Cope**, NOAA Northwest Fisheries Science Center\                                                                                        |
-|          | [***Tools and principles to support science-based fisheries management across the world***](abstracts.html#cope)                                |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SEP 6    | **Easton White**, University of New Hampshire\                                                                                                                                                |
+|          | [***Socio-ecological dynamics of fisheries in the face of extreme events***](abstracts.html#white)                                                                                            |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SEP 13   | **Michelle Bachman**, New England Fishery Management Council\                                                                                                                                 |
+|          | [***Area-Based Management at the Regional Fishery Management Councils***](abstracts.html#bachman)                                                                                             |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SEP 20   | **Katherine Kahl**, University of Massachusetts Amherst\                                                                                                                                      |
+|          | [***UMass Amherst Gloucester Marine Station: Our vision forward***](abstracts.html#kahl)                                                                                                      |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SEP 27   | **Joseph Caracappa**, NOAA Northeast Fisheries Science Center\                                                                                                                                |
+|          | [***Building a Climate-Ready Northeast U.S. Atlantis Ecosystem Model***](abstracts.html#caracappa)                                                                                            |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| OCT 4    | **Tara Dolan**, Massachusetts Division of Marine Fisheries\                                                                                                                                   |
+|          | [***Exploring population connectivity in winter flounder***](abstracts.html#dolan)                                                                                                            |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| OCT 11   | **CINAR Fellows - Gavin Fay, Genevieve Nesslage, Joshua Stoll, John Wiedenmann**\                                                                                                             |
+|          | (joint webinar with NOAA Fisheries, **remote only**)\                                                                                                                                         |
+|          | [***Enhancing Linkages between Ecosystem Research, Stock Assessment, and Management: Presentations by CINAR Fellows in Quantitative Fisheries and Ecosystem Science***](abstracts.html#quest) |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| OCT 18   | **Robert DeConto**, University of Massachusetts Amherst\                                                                                                                                      |
+|          | (joint SMAST DFO/DEOS seminar)\                                                                                                                                                               |
+|          | [***topic: Northeast Collaborative for Climate Resilience***](abstracts.html#deconto)                                                                                                         |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| NOV 1    | **Kelsey Leonard**, University of Waterloo\                                                                                                                                                   |
+|          | (**remote only**)\                                                                                                                                                                            |
+|          | [***topic: Indigenous Ocean Justice***](abstracts.html#leonard)                                                                                                                               |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| NOV 8    | **Katherine Mills**, Gulf of Maine Research Institute\                                                                                                                                        |
+|          | [***Climate Impacts and Resilience in Marine Fisheries***](abstracts.html#mills)                                                                                                              |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| NOV 15   | **Meghna Marjadi**, University of Massachusetts Dartmouth\                                                                                                                                    |
+|          | [***Climate-related impacts on reproductive success and phenological events for anadromous river herring***](abstracts.html#marjadi)                                                          |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| NOV 29   | **Sarah Donelan**, University of Massachusetts Dartmouth\                                                                                                                                     |
+|          | [***Legacies of stress: eco-evolutionary consequences of transgenerational and carryover effects in coastal systems***](abstracts.html#donelan)                                               |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| DEC 6    | **Jason Cope**, NOAA Northwest Fisheries Science Center\                                                                                                                                      |
+|          | [***Tools and principles to support science-based fisheries management across the world***](abstracts.html#cope)                                                                              |
++----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 #### Licensing
 

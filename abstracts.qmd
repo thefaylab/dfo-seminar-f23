@@ -70,7 +70,7 @@ The expression of alternative life-history strategies can be advantageous for a 
 
 #### 10/11/2023 {#quest}
 
-[**CINAR QUEST Fellows in Quantitative Fishery and Ecosystem Science**](www.cinar.org)
+[**CINAR Fellows in Quantitative Fishery and Ecosystem Science**](www.cinar.org)
 
 [Gavin Fay, Ph.D.\
 Associate Professor, Fisheries Oceanography, University of Massachusetts Dartmouth](www.thefaylab.com)\
@@ -81,11 +81,25 @@ Assistant Professor, University of Maine](https://joshua-stoll.com/)\
 [John Wiedenmann, Ph.D.\
 Assistant Professor, Ecology, Evolution and Natural Resources, Rutgers University](https://deenr.rutgers.edu/faculty/John_Wiedenmann.html)
 
+***Enhancing Linkages between Ecosystem Research, Stock Assessment, and Management: Presentations by CINAR Fellows in Quantitative Fisheries and Ecosystem Science***
+
+The goal of the CINAR fellowship program in Quantitative Fisheries and Ecosystem Science is to engage early-career scientists in research that supports the training and education of the next generation of stock assessment scientists, ecosystem scientists, and economists, and that improves the assessment and management of vital living marine resources in the Northeast U.S. This program supported two-year fellowships for four early career faculty from CINAR partner institutions who partnered with a scientist at the Northeast Fisheries Science Center to further strengthen links among research, assessments, and management. Join us for this seminar as our four CINAR fellows present an overview of their research and educational activities and its impact.
+
+[**Speaker Bios:**]{.underline}
+
+**Dr. Gavin Fay** is an Associate Professor in the Department of Fisheries Oceanography at University of Massachusetts Dartmouth\'s School for Marine Science and Technology (SMAST). Gavin\'s work focuses on using statistical and mathematical models for better ecosystem-based decision making for fisheries and our oceans. He is also interested in how open data science tools can empower communication of scientific results for application to management and policy.
+
+**Geneviève (Genny) Nesslage** is an Associate Research Professor at the University of Maryland Center for Environmental Science Chesapeake Biological Laboratory. Her research focuses on stock assessment as well as fish, wildlife, and invasive species population dynamics.
+
+**Joshua Stoll** is an Assistant Professor of Marine Policy in the School of Marine Sciences at the University of Maine. He is an applied social scientist who uses qualitative and quantitative methods to study questions about ocean governance, coastal community resilience, and seafood systems. 
+
+**John Wiedenmann** is an Assistant Professor in the Department of Ecology, Evolution, and Natural Resources at Rutgers University.  His research focuses on the population dynamics of marine fish, stock assessment, and fisheries management, with a particular focus on the Mid-Atlantic and New England regions.
+
 ------------------------------------------------------------------------
 
 #### 10/18/2023
 
-[**Robert DeConto, Ph.D.o, Ph.D.**\
+[**Robert DeConto, Ph.D.**\
 Provost Professor; Director, School of Earth & Sustainability; Dept. of Earth, Geographic, & Climate Sciences\
 University of Massachusetts Amherst](https://blogs.umass.edu/deconto/?_gl=1%2A1lccyo1%2A_gcl_au%2AMTE1NTE1NTQxLjE2ODk2MDk4NTc.%2A_ga%2ANTA0OTQ1NDc4LjE2ODk2MDk4NTc.%2A_ga_21RLS0L7EB%2AMTY5Mjk3Njk5My40LjAuMTY5Mjk3Njk5Ni4wLjAuMA..)
 
@@ -109,7 +123,7 @@ Gulf of Maine Research Institute](https://gmri.org/our-approach/staff/kathy-mill
 
 Climate change is altering oceans and marine ecosystems around the world, pushing physical conditions beyond recent analogues, driving biological changes, and creating impacts that cascade through social-ecological systems. The Northeast U.S. Shelf has experienced rapid warming of ocean temperatures, recurring marine heatwaves, and an exceptionally warm temperature regime over the past decade. Fish and invertebrate populations across the region are being affected in a variety of ways, including changes in distribution, growth, phenology, and productivity. Moreover, changing ocean uses that can support climate adaptation and mitigation are also affecting marine ecosystems and fisheries. The nature of these impacts and ability of fishery stakeholders to respond to them are mediated by the ecological, socio-economic, and governance context within which fisheries operate. This presentation will examine attributes of and pathways to climate resilience in marine fisheries in the Northeast US and relate experiences here to those in fisheries around the world. It will also highlight bidirectional global-local perspectives to identify multifaceted strategies to support climate adaptation and resilience in marine fisheries, including measures directed towards enhancing fish stocks and ecosystem health, reinforcing or building social capacities, expanding economic opportunities, and enhancing governance responsiveness and effectiveness.
 
-Dr. Katherine Mills is a senior research scientist at the Gulf of Maine Research Institute in Portland, Maine. She earned her Ph.D. in Natural Resources at Cornell University. As a quantitative fisheries ecologist, Kathy studies marine ecosystem changes and fish-ecosystem-fishery relationships with a focus on the Gulf of Maine and Northeast US Shelf regions. Specifically, her research investigates (1) how physical and ecosystem conditions are changing; (2) how these changes affect fish populations, biological communities, and marine fisheries; and (3) how fisheries and fishing communities can effectively respond. Much of her work is interdisciplinary and collaborative, working with scientists and stakeholders to understand and inform management of fisheries as coupled social-ecological systems and to support climate adaptation and resilience in marine fisheries. She leads a UN Ocean Decade program---Fisheries Strategies for Changing Oceans and Resilient Ecosystems by 2030 (FishSCORE), is lead author for the \'Ocean Ecosystems and Marine Resources\' chapter of the US 5th National Climate Assessment, and serves as a chair of the ICES-PICES Strategic Initiative on Climate Change Impacts on Marine Ecosystems (SICCME).
+Dr. Katherine Mills is a senior research scientist at the Gulf of Maine Research Institute in Portland, Maine. She earned her Ph.D. in Natural Resources at Cornell University. As a quantitative fisheries ecologist, Kathy studies marine ecosystem changes and fish-ecosystem-fishery relationships with a focus on the Gulf of Maine and Northeast US Shelf regions. Specifically, her research investigates (1) how physical and ecosystem conditions are changing; (2) how these changes affect fish populations, biological communities, and marine fisheries; and (3) how fisheries and fishing communities can effectively respond. Much of her work is interdisciplinary and collaborative, working with scientists and stakeholders to understand and inform management of fisheries as coupled social-ecological systems and to support climate adaptation and resilience in marine fisheries. She leads a UN Ocean Decade program---Fisheries Strategies for Changing Oceans and Resilient Ecosystems by 2030 (FishSCORE), is lead author for the 'Ocean Ecosystems and Marine Resources' chapter of the US 5th National Climate Assessment, and serves as a chair of the ICES-PICES Strategic Initiative on Climate Change Impacts on Marine Ecosystems (SICCME).
 
 ------------------------------------------------------------------------
 
