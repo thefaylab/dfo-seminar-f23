@@ -87,7 +87,7 @@ The goal of the CINAR fellowship program in Quantitative Fisheries and Ecosystem
 
 [**Speaker Bios:**]{.underline}
 
-**Dr. Gavin Fay** is an Associate Professor in the Department of Fisheries Oceanography at University of Massachusetts Dartmouth\'s School for Marine Science and Technology (SMAST). Gavin\'s work focuses on using statistical and mathematical models for better ecosystem-based decision making for fisheries and our oceans. He is also interested in how open data science tools can empower communication of scientific results for application to management and policy.
+**Dr. Gavin Fay** is an Associate Professor in the Department of Fisheries Oceanography at University of Massachusetts Dartmouth's School for Marine Science and Technology (SMAST). Gavin's work focuses on using statistical and mathematical models for better ecosystem-based decision making for fisheries and our oceans. He is also interested in how open data science tools can empower communication of scientific results for application to management and policy.
 
 **Geneviève (Genny) Nesslage** is an Associate Research Professor at the University of Maryland Center for Environmental Science Chesapeake Biological Laboratory. Her research focuses on stock assessment as well as fish, wildlife, and invasive species population dynamics.
 
@@ -102,6 +102,10 @@ The goal of the CINAR fellowship program in Quantitative Fisheries and Ecosystem
 [**Robert DeConto, Ph.D.**\
 Provost Professor; Director, School of Earth & Sustainability; Dept. of Earth, Geographic, & Climate Sciences\
 University of Massachusetts Amherst](https://blogs.umass.edu/deconto/?_gl=1%2A1lccyo1%2A_gcl_au%2AMTE1NTE1NTQxLjE2ODk2MDk4NTc.%2A_ga%2ANTA0OTQ1NDc4LjE2ODk2MDk4NTc.%2A_ga_21RLS0L7EB%2AMTY5Mjk3Njk5My40LjAuMTY5Mjk3Njk5Ni4wLjAuMA..)
+
+***Unprecedented Vulnerability of the Antarctic Ice Sheet: Implications for Global Climate, Sea Level, and Coastlines***
+
+Rob DeConto is a Provost Professor of *Earth, Geographic, and Climate Sciences* and Director of the *School of Earth & Sustainability* at the University of Massachusetts Amherst. His research on the dynamic behavior of ice sheets, sea level rise, and the impacts of sea level rise on coastlines and people has been featured in *Rolling Stone*, on the cover of *Nature,* and the front page of the *New York Times*. Rob is a lead author of the *Intergovernmental Panel on Climate Change (IPCC)*, a fellow of the *American Geophysical Union*, and a recipient of the *Tinker-Muse Prize for Science and Policy in Antarctica*.
 
 ------------------------------------------------------------------------
 
@@ -134,6 +138,11 @@ Postdoctoral Research Fellow\
 University of Massachusetts Dartmouth](https://www.linkedin.com/in/meghna-n-marjadi-10791332/)
 
 #### *Climate-related impacts on reproductive success and phenological events for anadromous river herring*
+
+Projected changes in climate may influence fish life history patterns and population dynamics, which would have broader socioeconomic implications for human well-being, including changes in food availability. Developing better understanding of climate related impacts on the timing of life history traits (phenology) can help inform management efforts. Each year, anadromous river herring (alewife (*Alosa pseudoharengus*) and blueback herring (*Alosa aestivalis*)) migrate from the ocean to freshwater, where juveniles reside before emigrating to the
+ocean. Changes in climate may alter environmental and biological cues that prompt both adult migration and juvenile emigration, with implications for adult spawning success and offspring survival for these imperiled species. This talk will consider how environmental cues prompt phenological events for both adult and juvenile river herring based on results from otolith aging, genetic pedigrees, and AI video processing. If time permits, I will also discuss a transdisciplinary approach using MRIP and Census data to better understand recreational and subsistence fishing practices in Tampa and New Orleans
+
+Meghna N. Marjadi is CINAR Postdoctoral Fellow working with the NOAA NEFSC Cooperative Research Branch and SMAST (School of Marine Science & Technology, University of Massachusetts-Dartmouth). In this role, Meghna will use high-resolution fishery dependent data to better understand how offshore wind installation may impact fishing operations. Meghna completed her Ph.D. in Organismic and Evolutionary Biology at the University of Massachusetts-Amherst where her dissertation considered how climate change may influence migration patterns and population dynamics in anadromous river herring and how these biological impacts may affect broader ecosystems and related global food systems. Meghna also earned her M.S. in Organismic and Evolutionary Biology at UMass-Amherst and her B.S. in wildlife biology at McGill University. Additionally, Meghna was a graduate fellow at the National Socioeconomic Synthesis Center (SESYNC) and is a Switzer Foundation Fellow.
 
 ------------------------------------------------------------------------
 
