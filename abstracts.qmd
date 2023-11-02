@@ -6,6 +6,8 @@ University of New Hampshire](https://quantmarineecolab.github.io/)
 
 #### ***Socio-ecological dynamics of fisheries in the face of extreme events***
 
+\[[*Zoom recording*](https://umassd.zoom.us/rec/share/9N2bD0q1b21ll_b8Z-0KwMd73lsZ_5KiXCk0LgRGKCliM6X5o4EcWtxFOAr7YVyN.whri7tlSXYqo9Hik)\]
+
 Extreme events are, by definition, rare, but they can have significant consequences for systems. This is especially the case in socio-ecological systems that involve linkages between several-subsystems, allowing to the effects of an extreme event to propagate. In this talk, I'll highlight studies focused on how extreme events affect the socio-ecological dynamics of fisheries. The talk will contain case studies on coral reef fisheries, COVID-19 and seafood, and recreational fisheries. I'll show that shock events can dramatically alter the course of the socio-ecological system and change management recommendations. I identify counter-intuitive situations where the degradation of habitat via a shock event can help the system persist in a healthy state as a result of feedback from the social dynamics.
 
 Dr. Easton White is a quantitative marine ecologist who uses mathematical and statistical tools, coupled with experiments and field observations, to answer questions in ecology, conservation science, sustainability, and ecosystem management. Most of his work is focused on marine systems, especially fisheries and spatial planning. Easton currently conducts research on assessing the effectiveness of protected area networks, improving species monitoring programs, and modeling socio-ecological systems in the context of fisheries. His work centers on how environmental variability, in particular rare events (e.g., hurricanes, COVID-19 pandemic), affects ecosystems and those that depend on them. He is currently recruiting for graduate students within the Quantitative Marine Ecology Lab at the University of New Hampshire working with Professor Easton White. Please see here ([https://quantmarineecolab.github.io/join/](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fquantmarineecolab.github.io%2Fjoin%2F&data=05%7C01%7Cgfay%40umassd.edu%7C2f1b6dbd36c648e43a5708db935fefc0%7C328d6c0d0f2f4b7693109762ba1c3e2d%7C0%7C0%7C638265812886395101%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3WF%2FQiYAemE2d9Fo%2FZJph3xbRTip4AcJH0%2B9TqNMcSI%3D&reserved=0 "Original URL: https://quantmarineecolab.github.io/join/. Click or tap if you trust this link.")) for more information on how to apply.
@@ -19,6 +21,8 @@ Fishery Analyst, Habitat Plan Coordinator\
 New England Fishery Management Council](nefmc.org)
 
 #### ***Area-Based Management at the Regional Fishery Management Councils***
+
+\[[*Zoom recording*](https://umassd.zoom.us/rec/share/nGSsW6MAr3-pmNQDwczF4LtqQ1CbzlOSifYNwwb285R9Oj_XwiByuUfSVzkC4prv.s4e4QuioR9OVq3eb)\]
 
 Conservation areas are one of many tools to manage fisheries and conserve ecosystems and associated biodiversity in U.S. marine waters. Working under the direction of the Council Coordination Committee, the Area-Based Management Subcommittee developed a project-specific definition of 'conservation' and identified 648 areas in three categories, ecosystem conservation, year-round fishery management, and seasonal / other areas. In total, these areas currently cover 72% of the total U.S. Exclusive Economic Zone (EEZ).
 
@@ -40,6 +44,12 @@ University of Massachusetts Amherst](https://eco.umass.edu/people/faculty/kahl-k
 
 #### *UMass Amherst Gloucester Marine Station: Our vision forward*
 
+\[[*Zoom recording*](https://umassd.zoom.us/rec/share/9N2bD0q1b21ll_b8Z-0KwMd73lsZ_5KiXCk0LgRGKCliM6X5o4EcWtxFOAr7YVyN.whri7tlSXYqo9Hik)\]
+
+Of the 6.7 million Massachusetts residents, 5.1 million (75%) of those live in coastal areas, representing \$206 billion in annual wages. Coastal areas face a suite of complex challenges. Rising seas and ocean temperatures, more frequent and intense storms, and flooding all represent significant threats to coastal ecosystems, coastal communities, and infrastructure through land loss, altered habitats and increased vulnerability to storm and flood damage. Marine ecosystems, fishing stocks, seafood processors, and dependable sources of local seafood to markets and restaurants provide a cascading network of challenge to address up and down the seafood supply chain. The negative impacts on fishermen and livelihoods, and the skillsets needed to sustain the industry's institutional knowledge and culture (on the North Shore and across New England), are many. Gaining and translating scientific understanding of fisheries stocks and marine habitat under a changing ocean climate is foundational to bringing innovative solutions to these challenges.
+
+﻿To address complex coastal challenges at local and regional scales, the UMass Amherst Gloucester Marine Station (GMS) has engaged North Shore communities, stakeholders, and coastal industry leaders to inform a strategic re-envisioning of GMS's research and engagement focal areas: blue economy, coastal resilience, marine ecology, and sustainable fisheries & seafood. Infrastructure investments by the Commonwealth and University are enabling new opportunities to grow research partnerships and immersive student learning. This presentation will share an overview of GMS programming, progress to date and our vision forward.
+
 ------------------------------------------------------------------------
 
 #### 9/27/2023 {#caracappa}
@@ -49,6 +59,8 @@ Ecosystem Modeler\
 NOAA Fisheries Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/contact/joseph-caracappa)
 
 #### *Building a Climate-Ready Northeast U.S. Atlantis Ecosystem Model*
+
+\[[*Zoom recording*](https://umassd.zoom.us/rec/share/XJGTNVXFG818E1azW8yrTuKoZH96lTmhr1iUvYfXV1qmuipB48zdRqFkpjLT1BPD.WgyyMlltw6ktQ_kT)\]
 
 With increased concern on the impacts of climate change on the northeast U.S., there is a growing need for modelling products that can relate large-scale environmental change to regional and local processes. End-to-end ecosystem models, like Atlantis, simulate ecosystem-wide processes from physics and biogeochemistry, to ecological processes and population dynamics, all through socioeconomic impacts. The Northeast U.S. Atlantis ecosystem model (NEUSv2) is such a model, and while much of its development has focused on its ability to reproduce critical ecosystem processes and validated against data, it's not yet "climate-ready". This talk will discuss the development workflow and modeling efforts of NEUSv2, some broader observations on the tradeoffs between model skill, complexity, and resources, as well as some current work to improve NEUSv2's ability to relate global climate change to regional/local impacts.
 
@@ -63,6 +75,8 @@ Research fisheries biologist\
 Massachusetts Division of Marine Fisheries](https://scholar.google.com/citations?user=Xndpi9YAAAAJ&hl=en)
 
 #### *Exploring population connectivity in winter flounder*
+
+\[[*Zoom recording*](https://umassd.zoom.us/rec/share/HdSWBFFUuwQVeVVFnkwNOHWANaY6pqaAFx_QaeLH582ixcGO4Nexu13cbUwLR5gp.fShap6vEotQii_QY)\]
 
 The expression of alternative life-history strategies can be advantageous for a species that experiences fluctuating environmental conditions. Intra-species differences in migration propensity and the timing of spawning create diverse population components which can respond plastically to environmental variability, promoting long-term stability within the population. However, such intra-specific diversity can also lead to challenges for the assessment and management of harvested species when we can no longer assume that stocks with such diverse subcomponents have homogeneous population dynamics. A concern for the assessment and management of Southern New England/Mid-Atlantic winter flounder (*Pseudopleuronectes americanus*) is whether diversity in migration propensity and the timing and location of spawning results in persistent stock structure. We characterized intra-specific behavioral diversity in migration propensity for winter flounder across multiple spatial scales. The migration propensity and natal origin for individual flounder were cross-referenced with their genotype, allowing us to compare genetic signatures of population structure with migration and spawning behavior. Including the role of behavior in mediating population connectivity will lead to more accurate interpretation of the causes and consequences of changes in fisheries productivity, and thus help us design more accurate assessment and effective management strategies.
 
@@ -82,6 +96,8 @@ Assistant Professor, University of Maine](https://joshua-stoll.com/)\
 Assistant Professor, Ecology, Evolution and Natural Resources, Rutgers University](https://deenr.rutgers.edu/faculty/John_Wiedenmann.html)
 
 ***Enhancing Linkages between Ecosystem Research, Stock Assessment, and Management: Presentations by CINAR Fellows in Quantitative Fisheries and Ecosystem Science***
+
+\[[*Youtube recording*](https://youtu.be/m90kewUZH5w)\]
 
 The goal of the CINAR fellowship program in Quantitative Fisheries and Ecosystem Science is to engage early-career scientists in research that supports the training and education of the next generation of stock assessment scientists, ecosystem scientists, and economists, and that improves the assessment and management of vital living marine resources in the Northeast U.S. This program supported two-year fellowships for four early career faculty from CINAR partner institutions who partnered with a scientist at the Northeast Fisheries Science Center to further strengthen links among research, assessments, and management. Join us for this seminar as our four CINAR fellows present an overview of their research and educational activities and its impact.
 
@@ -105,6 +121,8 @@ University of Massachusetts Amherst](https://blogs.umass.edu/deconto/?_gl=1%2A1l
 
 ***Unprecedented Vulnerability of the Antarctic Ice Sheet: Implications for Global Climate, Sea Level, and Coastlines***
 
+\[[*Zoom recording*](https://umassd.zoom.us/rec/share/KwiTruHb7Ps-cKK6m3YXBq0FlONnEyfR5-HkNOP4esTMbb8MUsgKFrQ9S4hyiCqx.wwXiWbXzNJ_2-1as)\]
+
 Rob DeConto is a Provost Professor of *Earth, Geographic, and Climate Sciences* and Director of the *School of Earth & Sustainability* at the University of Massachusetts Amherst. His research on the dynamic behavior of ice sheets, sea level rise, and the impacts of sea level rise on coastlines and people has been featured in *Rolling Stone*, on the cover of *Nature,* and the front page of the *New York Times*. Rob is a lead author of the *Intergovernmental Panel on Climate Change (IPCC)*, a fellow of the *American Geophysical Union*, and a recipient of the *Tinker-Muse Prize for Science and Policy in Antarctica*.
 
 ------------------------------------------------------------------------
@@ -114,6 +132,12 @@ Rob DeConto is a Provost Professor of *Earth, Geographic, and Climate Sciences*
 [**Kelsey Leonard, Ph.D.**\
 Assistant Professor, Faculty of Environment\
 University of Waterloo](https://www.kelseyleonard.com/)
+
+#### *Sustaining Tribal Fisheries*
+
+In this presentation, we explore the complex landscape of preserving and sustaining Tribal fisheries for the benefit of future generations. Together, we will examine the intricate balance required between ecological sustainability, cultural preservation, and economic viability within the context of Tribal fisheries. This discussion aims to provide scholarly insights into the multifaceted challenges and opportunities inherent in the preservation and sustainable management of Tribal fisheries and recommendations for acknowledging and upholding the rights and sovereignty of Tribal Nations in the management of fisheries.
+
+Dr. Kelsey Leonard holds a Canada Research Chair in Indigenous Waters, Climate and Sustainability and is an Assistant Professor in the School of Environment, Resources, and Sustainability in the Faculty of Environment at the University of Waterloo, where her research focuses on Indigenous water justice and its climatic, territorial, and governance underpinnings. As a water scientist and legal scholar, Dr. Leonard seeks to establish Indigenous traditions of water conservation as the foundation for international water policymaking. She represents the Shinnecock Indian Nation on the Mid-Atlantic Committee on the Ocean, which is charged with protecting America's ocean ecosystems and coastlines. She also serves as a member of the Great Lakes Water Quality Board of the International Joint Commission. She is an enrolled citizen of Shinnecock Indian Nation.
 
 ------------------------------------------------------------------------
 
@@ -139,8 +163,7 @@ University of Massachusetts Dartmouth](https://www.linkedin.com/in/meghna-n-marj
 
 #### *Climate-related impacts on reproductive success and phenological events for anadromous river herring*
 
-Projected changes in climate may influence fish life history patterns and population dynamics, which would have broader socioeconomic implications for human well-being, including changes in food availability. Developing better understanding of climate related impacts on the timing of life history traits (phenology) can help inform management efforts. Each year, anadromous river herring (alewife (*Alosa pseudoharengus*) and blueback herring (*Alosa aestivalis*)) migrate from the ocean to freshwater, where juveniles reside before emigrating to the
-ocean. Changes in climate may alter environmental and biological cues that prompt both adult migration and juvenile emigration, with implications for adult spawning success and offspring survival for these imperiled species. This talk will consider how environmental cues prompt phenological events for both adult and juvenile river herring based on results from otolith aging, genetic pedigrees, and AI video processing. If time permits, I will also discuss a transdisciplinary approach using MRIP and Census data to better understand recreational and subsistence fishing practices in Tampa and New Orleans
+Projected changes in climate may influence fish life history patterns and population dynamics, which would have broader socioeconomic implications for human well-being, including changes in food availability. Developing better understanding of climate related impacts on the timing of life history traits (phenology) can help inform management efforts. Each year, anadromous river herring (alewife (*Alosa pseudoharengus*) and blueback herring (*Alosa aestivalis*)) migrate from the ocean to freshwater, where juveniles reside before emigrating to the ocean. Changes in climate may alter environmental and biological cues that prompt both adult migration and juvenile emigration, with implications for adult spawning success and offspring survival for these imperiled species. This talk will consider how environmental cues prompt phenological events for both adult and juvenile river herring based on results from otolith aging, genetic pedigrees, and AI video processing. If time permits, I will also discuss a transdisciplinary approach using MRIP and Census data to better understand recreational and subsistence fishing practices in Tampa and New Orleans
 
 Meghna N. Marjadi is CINAR Postdoctoral Fellow working with the NOAA NEFSC Cooperative Research Branch and SMAST (School of Marine Science & Technology, University of Massachusetts-Dartmouth). In this role, Meghna will use high-resolution fishery dependent data to better understand how offshore wind installation may impact fishing operations. Meghna completed her Ph.D. in Organismic and Evolutionary Biology at the University of Massachusetts-Amherst where her dissertation considered how climate change may influence migration patterns and population dynamics in anadromous river herring and how these biological impacts may affect broader ecosystems and related global food systems. Meghna also earned her M.S. in Organismic and Evolutionary Biology at UMass-Amherst and her B.S. in wildlife biology at McGill University. Additionally, Meghna was a graduate fellow at the National Socioeconomic Synthesis Center (SESYNC) and is a Switzer Foundation Fellow.
 

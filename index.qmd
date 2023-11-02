@@ -10,6 +10,8 @@ Attend in person at SMAST-East, rooms 101-103, or online via Zoom\
 SMAST-East: 836 S Rodney French Boulevard, New Bedford, MA 02744\
 *For Zoom link or additional information, please contact Michael Harrison at [mharrison3\@umasd.edu](mailto:mharrison3@umassd.edu)*
 
+*For links to the recordings of talks, please click on the talk title.*
+
 +---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEP 6   | **Easton White**, University of New Hampshire\                                                                                                                                                |
 |         | [***Socio-ecological dynamics of fisheries in the face of extreme events***](abstracts.html#white)                                                                                            |
@@ -36,7 +38,7 @@ SMAST-East: 836 S Rodney French Boulevard, New Bedford, MA 02744\
 +---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 1   | **Kelsey Leonard**, University of Waterloo\                                                                                                                                                   |
 |         | (**remote only**)\                                                                                                                                                                            |
-|         | [***topic: Indigenous Ocean Justice***](abstracts.html#leonard)                                                                                                                               |
+|         | [***Sustaining Tribal Fisheries***](abstracts.html#leonard)                                                                                                                                   |
 +---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | NOV 8   | **Katherine Mills**, Gulf of Maine Research Institute\                                                                                                                                        |
 |         | [***Climate Impacts and Resilience in Marine Fisheries***](abstracts.html#mills)                                                                                                              |
